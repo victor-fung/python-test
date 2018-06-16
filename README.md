@@ -35,6 +35,9 @@ High Replication Datastore (HRD) and retrieved using a strongly consistent
 ## View your app on live
 - To browse your app on live, run gcloud app browse
 
+## Adding ghost names
+- You will be able to see a button to add ghost names after you logged in as an admin, admin is defaulted to the owner of the project
+
 ## Accessing your Google App Engine console
 - https://console.cloud.google.com/
 
